@@ -1,13 +1,13 @@
 # CZTSSe 文献速递 - 2026-08-24
 
 > 检索窗口：2026-08-20 ~ 2026-08-24（数据来源：Crossref）｜ 2026-08-24
-> 统计：本期精选 **10** 篇（CZTSSe/Kesterite 核心 2 / 重点团队 1 / 其他电池方向 5 / 非光伏应用 2）
+> 统计：本期精选 **14** 篇（CZTSSe/Kesterite 核心 2 / 重点团队 1 / 其他电池方向 9 / 非光伏应用 2）
 
 ## 今日要点
 
-1. 核心新文献：Nanotechnology 专题综述提出反应性异相区（RHR）统一框架，系统梳理 CZTSSe 等硫族化物界面能带调控与可复现测量规范；Cu2CoSnS4 热蒸发薄膜完成实验表征与模拟验证。
-2. 效率纪录：Ga 掺杂 SnO2 无机阴极缓冲层替代 BCP，反式钙钛矿器件效率达 27.06%（认证 26.77%），85°C 下运行 1500 小时保持 88%。
-3. 延伸关注：中科院物理所团队不对称 SAM 界面调控实现 26.38% 效率；低铟低银硅异质结模拟设计可降低关键金属消耗约九成。
+1. 核心新文献：Nanotechnology 综述以反应性异相区（RHR）框架统一描述 kesterite 等硫族化物界面能带调控并给出可复现测量规范；热蒸发 Cu2CoSnS4 薄膜实验表征结合模拟验证无锌 kesterite 吸收体潜力。
+2. 效率纪录：Ga 掺杂 SnO2 无机阴极缓冲层替代 BCP 的反式钙钛矿器件效率达 27.06%（认证 26.77%），85°C 下运行 1500 小时保持 88%。
+3. 延伸关注：高斯过程代理模型将 CaZrSe3 无铅硫族钙钛矿器件优化计算量降低 95%；石墨烯量子点绿色敏化剂与溅射 AZO 透明电极等低成本替代路线持续推进。
 
 ---
 
@@ -37,17 +37,29 @@
 
 ## 三、其他太阳能电池方向
 
+### 其他薄膜（硫族 / 新型）
+
+**Active Learning and Explainable Machine Intelligence for Lead-Free Chalcogenide Perovskite Photovoltaics: Gaussian Process Bayesian Optimization and SHAP Interpretability Applied CaZrSe3/CdZnS Solar Cells**
+- **期刊**：Materials Research Express ｜ **作者**：Khurshid Alam; Tanveer Ahmad; Yousaf Hameed Khattak et al. ｜ **年份**：2026
+- **DOI**：10.1088/2053-1591/ae9d20
+  - **亮点**：将高斯过程代理模型与期望改进采集函数集成进 SCAPS-1D 流程，仅用 604 次模拟即以 95% 的计算缩减定位 CaZrSe3/CdZnS 异质结 10.49% 全局效率最优；SHAP 分析揭示吸收层受主掺杂浓度为主导因素，给出面向制备的定量设计规则。
+
 ### 钙钛矿（Perovskite）
 
 **Ga Doping Enables (110) Facet Control and Surface Passivation of SnO2 for Efficient and Stable Inverted Perovskite Solar Cells** `新纪录`
-- **期刊**：Angewandte Chemie International Edition ｜ **作者**：Yishun Feng; Shucheng Qin; Yiyang Wang et al. ｜ **年份**：2026
-- **DOI**：10.1002/anie.3095986
+- **期刊**：Angewandte Chemie ｜ **作者**：Yishun Feng; Shucheng Qin; Yiyang Wang et al. ｜ **年份**：2026
+- **DOI**：10.1002/ange.3095986
   - **亮点**：Ga 掺杂 SnO2 作为无机阴极缓冲层替代 BCP，促进 (110) 面择优生长提升导电性与电子迁移率，并钝化表面缺陷抑制非辐射复合，冠军效率 27.06%（认证 26.77%），85°C 下运行 1500 小时保持 88%。
 
 **Asymmetric Doping–Driven Internal Field Engineering in p–n Homojunctions for Efficient Perovskite Solar Cells**
 - **期刊**：Small ｜ **作者**：Abrar Karim; Junyeong Lee; Jun Yong Kim et al. ｜ **年份**：2026
 - **DOI**：10.1002/smll.75320
   - **亮点**：采用化学计量自掺杂结合溶剂辅助热压转移构建无界面缺陷的 MAPbI3 p-n 同质结，独立调控上下层掺杂极性强化内建电场，相对效率较本征双层器件提升约 22% 并降低迟滞。
+
+**PGMEA-based interlayer engineering for thermally stable and efficient perovskite solar cells**
+- **期刊**：Physica Scripta ｜ **作者**：Zixu Yang; Qichen Zhao; Yongqiang Zhang et al. ｜ **年份**：2026
+- **DOI**：10.1088/1402-4896/ae979e
+  - **亮点**：以 PGMEA 功能溶剂介导旋涂实现 PMMA 均匀互层，钝化晶界与界面缺陷并增强结晶度与疏水性，150°C 退火 3 小时后效率 19.37%，未封装器件 800 小时老化后保持初始效率的 91.5%。
 
 ### 硅基（Silicon）
 
@@ -61,12 +73,24 @@
 - **DOI**：10.1021/acs.inorgchem.6c03476
   - **亮点**：晶格取代策略提升 Mn4+ 掺杂荧光粉量子效率（内量子效率 93.9%），双下转换膜置于硅电池上下表面，宽激发带补足近紫外至可见弱响应区，使硅电池相对效率提升 3.08%。
 
+### 量子点（Quantum Dot）
+
+**Experimental Prototyping and Atomistic Modeling of Graphene Quantum Dot-Sensitized Solar Cells**
+- **期刊**：Materials ｜ **作者**：Łukasz Kaczmarek; Piotr Zawadzki; Kacper Szymański et al. ｜ **年份**：2026
+- **DOI**：10.3390/ma19173566
+  - **亮点**：微波水热法以生物可降解前驱体合成石墨烯量子点作绿色敏化剂，浓度稀释 5 倍时 Voc 达 545.4 mV；MACE 机器学习势与半经验计算表明 Ti-O-C 共价桥接是强界面电子耦合的关键，证明 GQD 可作经典染料敏化剂的无毒替代。
+
 ### 其他
 
 **Orchestrating Polaritonic Crystal Resonances in Transparent Metallic Nanomesh Electrodes**
 - **期刊**：Small ｜ **作者**：Fábio G. Brandão; Ivan M. Santos; Edgar Cucubica et al. ｜ **年份**：2026
 - **DOI**：10.1002/smll.75394
   - **亮点**：胶体光刻制备银金属网电极，光子微网与等离激元纳米网两种架构的品质因子分别达 7.5×10^-2 与 3.8×10^-3 Ω^-1，均超越 ITO 标准，为光伏、发光与光电探测等器件提供通用透明电极设计方法。
+
+**Systematic Optimization of Sputtered AZO Thin Films and Their Integration as Alternative Transparent Electrodes for Perovskite Solar Cells**
+- **期刊**：ACS Omega ｜ **作者**：Zeynep Mavili; Mucahit Yilmaz ｜ **年份**：2026
+- **DOI**：10.1021/acsomega.6c06694
+  - **亮点**：系统优化磁控溅射 AZO 薄膜，最优 AZO-13 可见光透过率约 86%、Haacke 品质因子 0.668 略超商业 FTO（0.664），集成于钙钛矿电池稳态效率 16.49%，并具更长波透明性，为无铟低成本透明电极提供工艺-结构-性能-器件全链路依据。
 
 ---
 
@@ -86,5 +110,5 @@
 
 ## 关于本报告
 
-- 本期覆盖 2026-08-20 至 2026-08-24（共 4 天），共扫描 259 篇论文，精选 10 篇。已报道论文不重复列出。
-- 生成时间：2026-08-24 21:03 ｜ 数据源：Crossref ｜ 检索窗口：2026-08-20 ~ 2026-08-24
+- 本期覆盖 2026-08-20 至 2026-08-24（共 4 天），共扫描 261 篇论文，精选 14 篇。已报道论文不重复列出。
+- 生成时间：2026-08-24 22:30 ｜ 数据源：Crossref ｜ 检索窗口：2026-08-20 ~ 2026-08-24
