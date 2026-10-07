@@ -1,13 +1,13 @@
 # CZTSSe 文献速递 - 2026-10-07
 
 > 检索窗口：2026-10-03 ~ 2026-10-07（数据来源：Crossref）｜ 2026-10-07
-> 统计：本期精选 **19** 篇（CZTSSe/Kesterite 核心 1 / 重点团队 1 / 其他电池方向 15 / 非光伏应用 2）
+> 统计：本期精选 **28** 篇（CZTSSe/Kesterite 核心 1 / 重点团队 1 / 其他电池方向 25 / 非光伏应用 1）
 
 ## 今日要点
 
-1. 核心新文献：无铅 BaZrS3/CZTSSe 四端叠层电池获实验参数约束的漂移扩散模拟评估，为 kesterite 参与的全硫属化物叠层数值设计提供新参照。
-2. 机理进展：少层 NiCo-LDH 供体选择性模板使聚合物给体 D18 的激子扩散长度从 10.7 nm 提升至 18.9 nm，揭示给体链有序化与激子利用效率的普适关联。
-3. 延伸关注：水基有机太阳电池经水油界面动力学控制获 12.59% 认证效率，绿色溶剂与水性加工路线再进一步。
+1. 机理进展：Angew 识别 NiOx/SAM 体系质子耦合电子转移诱导的埋底界面退化新通路，JACS 揭示膜闭合前沿溶液空腔导致埋底缺陷的结晶学起源，倒置钙钛矿埋底界面科学同日两项推进。
+2. 延伸关注：苯基铵功能化 SAM 分子经分子挤出进入钙钛矿体相使缺陷密度降低近一个数量级，倒置器件效率提升至 26.78%；低有序形貌反而抑制非辐射复合的发现为有机光伏高效率提供新机理认识。
+3. 延伸关注：CsPbI3 纳米晶播种联合原位 GIWAXS 调控刮涂窄带隙 Sn-Pb 钙钛矿，ISOS-T-3 九次热循环后保留 80% 效率，可规模化加工与热稳定性兼得。
 
 ---
 
@@ -65,6 +65,53 @@ Chemical Society ｜ **作者**：Qi Zhang; Asmat Ullah; Jianyao Huang et al. �
 - **DOI**：10.1002/solr.70512
   - **亮点**：双甘氨肽酰胺/羧基双位点分子桥接 SnO2/钙钛矿埋底界面，钝化碘与氧空位并促进晶体生长，效率与稳定性同步提升
 
+**Improved Crystallization-Front Dynamics Reduce Buried-Interface Defects in Perovskite Solar Cells**
+- **期刊**：Journal of the American
+Chemical Society ｜ **作者**：Yi Yang; Xianfu Zhang; Cheng Liu et al. ｜ **年份**：2026
+- **DOI**：10.1021/jacs.6c11350
+  - **亮点**：揭示倒置电池顶向下结晶时膜闭合前沿抵达低表面能空穴传输层引发局部溶液耗尽、形成空腔型埋底缺陷的机制，预埋黏附增强分子提前触发埋底界面结晶予以消除，大面积器件受益显著
+
+**Blocked Proton‐Coupled Electron Transfer Stabilizes Buried Interface in Air‐Processed Inverted Perovskite Solar Cells**
+- **期刊**：Angewandte Chemie International Edition ｜ **作者**：Luyao Yan; Zhineng Lan; Yingying Yang et al. ｜ **年份**：2026
+- **DOI**：10.1002/anie.2426576
+  - **亮点**：识别 NiOx/SAM/钙钛矿体系新埋底界面退化通路：SAM 释放质子经质子耦合电子转移加速 NiOx 与碘离子氧化还原反应，掺入 1-甲基咪唑同步捕获质子并抑制碘空位，高温与紫外工况稳定性显著提升
+
+**Cooperative Assembly Drives Buried Interface Engineering for Efficient Inverted Perovskite Solar Cells**
+- **期刊**：Advanced Materials ｜ **作者**：Ranran Xu; Ni Zhang; Shengnan Wang et al. ｜ **年份**：2026
+- **DOI**：10.1002/adma.75318
+  - **亮点**：咔唑乙醇与 Me-4PACz 协同组装构建化学非均质界面层，异分子缔合作用缓解 SAM 自聚集并借羟基氢键增强电荷抽取，界面均匀性与器件效率稳定性同步改善
+
+**Balancing Crystallization Kinetics and Lattice Strain Enables Thermally Stable Slot‐Die‐Coated Narrow‐Bandgap Perovskite Solar Cells**
+- **期刊**：Advanced Science ｜ **作者**：Xiaojing Ci; Altantulga Buyan‐Arivjikh; Xiongzhuo Jiang et al. ｜ **年份**：2026
+- **DOI**：10.1002/advs.78178
+  - **亮点**：CsPbI3 纳米晶播种联合原位 GIWAXS 追踪调节刮涂窄带隙 Sn-Pb 钙钛矿结晶动力学与晶格应变，ISOS-T-3 九次热循环后仍保留 80% 初始效率
+
+**Coordination‐Volatilization‐Induced (001) Out‐of‐Plane Reorientation by Ethylamine Hydrochloride for Efficient and Stable Inverted Perovskite Solar Cells**
+- **期刊**：Advanced Functional Materials ｜ **作者**：Liujiang Zhang; Xianyuan Jiang; Yiran Yan et al. ｜ **年份**：2026
+- **DOI**：10.1002/adfm.78854
+  - **亮点**：利用氯化乙胺配位-挥发的时序作用：先配位铅碘骨架促进成核并抑制 delta 相，退火中挥发诱导 (001) 择优取向重构，垂直晶粒排列增强载流子输运
+
+**Compact Multifunctional Cation Regulating 1D/3D Heterointerface for High‐Performance Inverted Perovskite Solar Cells**
+- **期刊**：Advanced Energy Materials ｜ **作者**：Qi Cao; Yonglei Han; Ye Ma et al. ｜ **年份**：2026
+- **DOI**：10.1002/aenm.71660
+  - **亮点**：短链有机盐 HyImBr 重构顶部 1D/3D 异质结构：氢键与配位双通道钝化多类缺陷并释放局部拉应变，同时优化能级排列提升电子抽取，效率与长期稳定性兼得
+
+**Phenylammonium Grafted SAM Molecule in Molecule-Extrusion Process to Enhance Perovskite Film Quality and Interfacial Passivation**
+- **期刊**：The Journal of Physical
+Chemistry Letters ｜ **作者**：Jinfeng Huang; Chuanxin Chen; Jin-Long Wang et al. ｜ **年份**：2026
+- **DOI**：10.1021/acs.jpclett.6c02870
+  - **亮点**：苯基铵功能化 SAM 分子 4PACD 随分子挤出工艺进入钙钛矿体相，原位荧光证实慢速结晶路径使缺陷密度降低近一个数量级，器件效率从 25.01% 提升至 26.78%
+
+**Buried‐Interface Regulation of Crystallization and Charge Extraction in Perovskite Solar Cells**
+- **期刊**：Small ｜ **作者**：Haixia Lu; Pengyu Dong; Guilin Ling et al. ｜ **年份**：2026
+- **DOI**：10.1002/smll.76079
+  - **亮点**：MGDA 螯合剂修饰 SnO2 埋底界面，分子动力学模拟证实其增强前驱体界面限域并抑制横向聚集，器件效率 25.50%，7x7 平方厘米刚性组件达 22.49%
+
+**Pyridine‐Carboxamide Bicyclic Molecules with Multi‐Site Anchoring for Flexible Perovskite Photovoltaics with Long Operational Lifetimes**
+- **期刊**：Small ｜ **作者**：Tao Wang; Liao Zhang; Changhao Sun et al. ｜ **年份**：2026
+- **DOI**：10.1002/smll.76117
+  - **亮点**：吡啶-甲酰胺多锚点分子引导 (100) 择优生长，柔性钙钛矿电池效率 25.17%，1 个标准太阳光照下老化 2050 小时后仍保留 91.4% 效率
+
 ### 有机（Organic）
 
 **Water-oil interfacial kinetics control enables water-based organic solar cells with 12.59% certified efficiency**
@@ -97,6 +144,11 @@ Chemical Society ｜ **作者**：Qi Zhang; Asmat Ullah; Jianyao Huang et al. �
 - **DOI**：10.1002/adma.75208
   - **亮点**：少层 NiCo-LDH 纳米片供体选择性模板促进给体链有序组装，D18 激子扩散长度从 10.7 nm 增至 18.9 nm，给体纤维结构更有序
 
+**Low‐Order Molecular Packing of Y‐Series Acceptors for High‐Efficiency Organic Photovoltaics**
+- **期刊**：Advanced Functional Materials ｜ **作者**：Mengting Wang; Zhixiang Zhong; Yanyi Zhong et al. ｜ **年份**：2026
+- **DOI**：10.1002/adfm.78886
+  - **亮点**：液滴钉扎结晶制备高有序 Y 系列 L8-BO 薄膜对照研究发现：低有序常规薄膜反而呈现被抑制的非辐射复合，为本体异质结有机光伏以无序形貌超越 20% 效率提供机理阐释
+
 ### CIGS
 
 **Ag Incorporation Strategies in Chalcogenide Solar Cells: Formation Mechanisms and Pathways Toward High Efficiency** `综述`
@@ -122,11 +174,6 @@ Chemical Society ｜ **作者**：Qi Zhang; Asmat Ullah; Jianyao Huang et al. �
 
 ## 四、衍生应用：光伏材料非光伏方向
 
-**In Situ Directional Growth of 2D/3D Perovskite Hetero-Crystals for Highly Sensitive and Stable X-ray Imaging**
-- **期刊**：ACS Nano ｜ **作者**：Yue Shen; Xinmei Liu; Kui Zhao et al. ｜ **年份**：2026
-- **DOI**：10.1021/acsnano.6c12247
-  - **亮点**：籽晶介导原位定向外延生长大面积 (PEA)2PbBr4/MAPbBr3 二维/三维异质结晶，陷阱密度低至 3.02e9 cm-3，X 射线成像灵敏度与稳定性兼得
-
 **Vertical Quasi‐2D Perovskite on ZnMgO Enables High‐Performance Pure‐Red PeLEDs**
 - **期刊**：Advanced Materials ｜ **作者**：Guan‐Jie Ding; Xiaolin Tai; Bo Li et al. ｜ **年份**：2026
 - **DOI**：10.1002/adma.75251
@@ -136,5 +183,5 @@ Chemical Society ｜ **作者**：Qi Zhang; Asmat Ullah; Jianyao Huang et al. �
 
 ## 关于本报告
 
-- 本期覆盖 2026-10-03 至 2026-10-07（共 4 天），共扫描 225 篇论文，精选 19 篇。已报道论文不重复列出。
-- 生成时间：2026-10-07 12:36 ｜ 数据源：Crossref ｜ 检索窗口：2026-10-03 ~ 2026-10-07
+- 本期覆盖 2026-10-03 至 2026-10-07（共 4 天），共扫描 244 篇论文，精选 28 篇。已报道论文不重复列出。
+- 生成时间：2026-10-07 21:11 ｜ 数据源：Crossref ｜ 检索窗口：2026-10-03 ~ 2026-10-07
